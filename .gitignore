@@ -1,0 +1,20 @@
+# binary
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# builds
+/bin/
+/build
+/out
+
+# cache go build
+*.o
+*.a
+*.test
+
+# temporary
+*.log
+*.tmp
